@@ -1,1 +1,15 @@
+html,
+body {
+    background: #181818;
+    margin: 0;
+    padding: 0;
+}
 
+h1 {
+    background-color: transparent;
+    color: #ff7b00;
+    text-align: center;
+    font-family: aileron, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
