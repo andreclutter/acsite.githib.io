@@ -1,0 +1,64 @@
+{
+    "name": "Andre Clutter &mdash; Website",
+    "short_name": "Andre Clutter",
+    "description": "Bienvenido al sitio web oficial de Andre Clutter.",
+    "background_color": "#121212",
+    "theme_color": "#ff3b00",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "/?utm_source=web_app_manifest",
+    "scope": "/",
+    "lang": "es",
+    "icons": [
+        {
+            "src": "./rsc/icons/andreclutter-favicon_1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+    },
+        {
+            "src": "./rsc/icons/andreclutter-favicon_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+    },
+        {
+            "src": "./rsc/icons/andreclutter-favicon_384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+    },
+        {
+            "src": "./rsc/icons/andreclutter-favicon_256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+    },
+        {
+            "src": "./rsc/icons/andreclutter-favicon_192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+    },
+        {
+            "src": "./rsc/icons/andreclutter-favicon_128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+    },
+        {
+            "src": "./rsc/icons/andreclutter-favicon_96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+    },
+        {
+            "src": "./rsc/icons/andreclutter-favicon_64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+    },
+        {
+            "src": "./rsc/icons/andreclutter-favicon_32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+    },
+        {
+            "src": "./rsc/icons/andreclutter-favicon_16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+    }
+  ]
+}
