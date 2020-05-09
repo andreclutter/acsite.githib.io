@@ -12658,3 +12658,18 @@ a.uk-link-active,
 .shadow-lg {
     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, .1), 0 4px 6px -2px rgba(0, 0, 0, .05) !important;
 }
+
+.site-section {
+    padding: 2em 0;
+}
+
+.form-group {
+    position: relative;
+}
+
+.form-group #s {
+    padding-right: 50px;
+    background: #f7f7f7;
+    padding: 15px 15px;
+    border: none;
+}
