@@ -12663,13 +12663,42 @@ a.uk-link-active,
     padding: 2em 0;
 }
 
-.form-group {
-    position: relative;
+.btn:focus,
+.btn:active,
+.form-control:focus,
+.form-control:active {
+    outline: none;
 }
 
-.form-group #s {
-    padding-right: 50px;
-    background: #f7f7f7;
-    padding: 15px 15px;
-    border: none;
+.form-control {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+textarea.form-control {
+    height: inherit;
+}
+
+.btn {
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+    padding: 8px 20px;
+}
+
+.btn.btn-black {
+    background: #000;
+    color: #fff;
+}
+
+.btn.btn-primary {
+    color: #fff;
+    border-width: 2px;
+}
+
+.btn.btn-primary:hover,
+.btn.btn-primary:active,
+.btn.btn-primary:focus {
+    border-color: #8540f5;
+    background: #8540f5;
 }
